@@ -77,7 +77,7 @@ function Note() {
                     <form>
     <div class="row mb-3">
         <div class="col-12">
-            <input id="date" value={data.date} class="form-control text-center" type="date" name="date" onChange={handleChange} />
+            <input id="date" value={data.date} class="form-control text-center" placeholder="DATE" type="date" name="date" onChange={handleChange} />
         </div>
     </div>
     <div class="row mb-3">
