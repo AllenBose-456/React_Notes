@@ -1,0 +1,13 @@
+.gdg{
+    background-color: #E6E6FA;
+}
+.gdg:hover{
+    transform:scale(1.1)
+}
+
+@media only screen and (max-width: 765px) {
+    .abs{
+      margin-top:20px
+    }
+
+}
